@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: lawngreen;
+}
+p{
+    color: lightcoral;
+}
+h3,h4,h5{
+    color: orangered;
+}
+h6{
+    color: aqua;
+}

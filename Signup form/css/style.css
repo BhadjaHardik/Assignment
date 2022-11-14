@@ -1,0 +1,59 @@
+
+#regform{
+    border:solid 3px rgb(105, 105, 105);
+    display: block;  
+    background-color: rgb(206, 206, 206);  
+    color: black;
+    width: 40%;
+    margin-left: 450px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px;
+    border-radius: 40px;
+    font-size: x-large;
+}
+.container{
+    display: block;    
+}
+.row{
+    width: 70%;
+    padding: 20px;  
+    border: solid 3px black;
+    margin-left: 70px;
+    margin-top: 22px;
+    border-radius: 20px;
+}
+.column{
+    width: max-content;  
+    padding: 5px; 
+    margin-right: 1%;
+    font-size: large;
+    border-radius: 10px;
+    background-color: rgb(231, 230, 230);
+}
+.username{
+    width: max-content;  
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 5px; 
+    font-size: large;
+    margin-right: 30px;
+    
+}
+.email{
+    width: max-content;  
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 5px; 
+    font-size:large;
+    margin-right: 80px;
+    
+}
+.button
+{
+    background-color: rgb(231, 230, 230);
+    padding: 5px; 
+    font-size: x-large;
+    margin-left: 30%;
+    margin-top: 22px;
+    width: 40%;
+    border-radius: 100px;
+}

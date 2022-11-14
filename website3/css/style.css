@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1,h2,h6{
+    background-color: lightblue;
+    color: blue;
+}
+section h2{
+    border: solid 2px orangered;
+    text-align:center;
+
+}

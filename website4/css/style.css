@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    border: solid 2px white;
+    width: 50%;
+    border-collapse: collapse;
+}
+td,th{
+    border: solid 2px white;
+    text-align: left;
+}
+th{
+    width: 20%;
+}
+tr{
+    background-color: lightcoral;
+}
+
+tr:nth-child(odd){
+    background-color: crimson;
+}
